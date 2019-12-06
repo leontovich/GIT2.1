@@ -8,4 +8,12 @@ double Minus(double a, double b)
 double Umnoj(double a, double b)
 {
 	return a * b;
+}  
+double Plus(double a, double b)
+{ 
+	return a + b; 
+}
+double Del(double a, double b) 
+{ 
+	return a / b; 
 }
